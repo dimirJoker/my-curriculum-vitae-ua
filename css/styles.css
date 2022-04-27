@@ -13,7 +13,7 @@ body {
 .about {
     background: #fdd272;
     color: black;
-    padding: 0.1px 5%;
+    padding: 0.1px 5ex;
 }
 h1 {
     font-family: 'Montserrat Alternates', sans-serif;
@@ -24,7 +24,7 @@ h2 {
 .projects {
     background: #202d39;
     color: white;
-    padding: 0.1px 5%;
+    padding: 0.1px 5ex;
 }
 h3 {
     font-family: 'Montserrat Alternates', sans-serif;
@@ -34,10 +34,10 @@ a {
     color: white;
 }
 .works {
-    margin: 5%;
+    margin: 5ex;
 }
 .section-li {
-    margin: 5% 0%;
+    margin: 5ex 0;
 }
 h4 {
     font-family: 'Montserrat Alternates', sans-serif;
@@ -47,23 +47,22 @@ h5 {
     color: gray;
 }
 .education {
-    margin: 10% 5%;
+    margin: 10ex 5ex;
 }
 aside section {
-    margin: 20% 5%;
+    margin: 5ex 1ex;
 }
 .sidebar {
     background-color: #1e1e1e;
     color: white;
-    padding: 1%;
+    padding: 1ex;
 }
 img {
     vertical-align: middle;
     width: 25px;
-    margin: 1%;
+    margin: 1px;
 }
 .user-photo {
-    border-radius: 25px;
+    border-radius: 25px 0;
     width: 250px;
-    margin: 0%;
 }
