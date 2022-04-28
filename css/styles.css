@@ -2,7 +2,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     background: #F5F7FA;
 }
-.main {
+.sheet {
     display: flex;
     flex-direction: row-reverse;
     background: white;
@@ -10,16 +10,19 @@ body {
     width: 1200px;
     margin: auto;
 }
-.about {
+header {
     background: #fdd272;
     color: black;
     padding: 0.1px 5ex;
 }
+h2 {
+    font-family: 'Montserrat Alternates', sans-serif;
+}
 h1 {
     font-family: 'Montserrat Alternates', sans-serif;
 }
-h2 {
-    font-family: 'Montserrat Alternates', sans-serif;
+.justify-text {
+    text-align: justify;
 }
 .projects {
     background: #202d39;
@@ -49,10 +52,7 @@ h5 {
 .education {
     margin: 10ex 5ex;
 }
-aside section {
-    margin: 5ex 1ex;
-}
-.sidebar {
+aside {
     background-color: #1e1e1e;
     color: white;
     padding: 1ex;
@@ -61,6 +61,9 @@ img {
     vertical-align: middle;
     width: 25px;
     margin: 1px;
+}
+aside section {
+    margin: 5ex 1ex;
 }
 .user-photo {
     border-radius: 25px 0;
