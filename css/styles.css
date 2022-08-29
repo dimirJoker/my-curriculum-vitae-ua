@@ -11,8 +11,7 @@ body {
     margin: auto;
 }
 header {
-    background: #fdd272;
-    color: black;
+    background: rgb(242,242,242);
     padding: 0.1px 5ex;
 }
 h2 {
@@ -25,8 +24,6 @@ h1 {
     text-align: justify;
 }
 .projects {
-    background: #202d39;
-    color: white;
     padding: 0.1px 5ex;
 }
 h3 {
@@ -34,7 +31,7 @@ h3 {
     color: #FB6D3A;
 }
 a {
-    color: white;
+    color: black;
 }
 .works {
     margin: 5ex;
@@ -53,8 +50,7 @@ h5 {
     margin: 10ex 5ex;
 }
 aside {
-    background-color: #1e1e1e;
-    color: white;
+    background-color: rgb(242,242,242);
     padding: 1ex;
 }
 img {
